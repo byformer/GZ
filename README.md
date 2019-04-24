@@ -1,2 +1,1 @@
-# GZ
-MrYang.github.me
+The first spam page
